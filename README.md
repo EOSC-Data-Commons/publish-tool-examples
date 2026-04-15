@@ -14,7 +14,7 @@ The simplest way to run the notebook is to use an online service like Google col
 
 Using Google Colab:
 
-1. Go to colab.research.google.com.
+1. Go to [colab.research.google.com](https://colab.research.google.com/).
 2. In `Open notebook`, select the `GitHub` tab.
 3. Paste the Github url `https://github.com/EOSC-Data-Commons/publish-tool-examples`. This load the list of notebooks in the repository.
 4. Click on the notebook you want to run, for example `publish-simple-tool-example.ipynb`.
