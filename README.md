@@ -4,10 +4,11 @@ A collection of Python Jupyter notebooks to showcase how to publish tools to the
 
 ## Notebooks
 
-| Notebook                                                                 | Description                                                                        |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| [publish-simple-tool-example.ipynb](./publish-simple-tool-example.ipynb) | A simple example of how to publish a tool to the `tools-registry`.                 |
-| [publish-notebook-example.ipynb](./publish-notebook-example.ipynb)       | An example of how to publish a Jupyter notebook as a tool to the `tools-registry`. |
+| Notebook                                                                 | Description                                                                           |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| [publish-simple-tool-example.ipynb](./publish-simple-tool-example.ipynb) | A simple example of how to publish a tool to the `tools-registry`.                    |
+| [publish-notebook-example.ipynb](./publish-notebook-example.ipynb)       | An example of how to publish a Jupyter notebook as a tool to the `tools-registry`.    |
+| [publish-container-example.ipynb](./publish-container-example.ipynb)     | An example of how to publish a Container/Apptainer as a tool to the `tools-registry`. |
 
 ## Getting Started
 
