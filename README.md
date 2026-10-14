@@ -6,7 +6,7 @@ A collection of Python Jupyter notebooks to showcase how to publish tools to the
 
 | Notebook                                                                 | Description                                                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| [publish-tool-new-api.ipynb]{./publish-tool-new-api.ipynb}               | An example of how to use the `tool-regitry` API to publish a tool.
+| [publish-tool-new-api.ipynb](./publish-tool-new-api.ipynb)               | An example of how to use the `tool-regitry` API to publish a tool.
 
 ## Getting Started
 
